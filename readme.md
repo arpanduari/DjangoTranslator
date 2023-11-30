@@ -61,3 +61,4 @@ Or You can check [here](https://djangotranslator.onrender.com)
 3. Choose the desired output language from the dropdown.
 4. Click the "Translate" button to view the translation.
 5. View translation history on the same page.
+![Example Image](ex1.png)
