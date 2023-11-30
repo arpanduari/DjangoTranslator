@@ -1,0 +1,27 @@
+body {
+    background-color: #F4EEFF;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.curve {
+    border-radius: 15px;
+}
+
+.total {
+    border-radius: 30px;
+}
+
+#even-div {
+    background-color: #DCD6F7;
+}
+
+#odd-div {
+    background-color: #A6B1E1;
+}
+
+.ip-op-text {
+    padding: 10px;
+    background-color: #F4EEFF;
+    font-size: 20px;
+}
